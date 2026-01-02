@@ -1,0 +1,5 @@
+tensorflow
+biopython
+streamlit
+numpy
+scikit-learn
