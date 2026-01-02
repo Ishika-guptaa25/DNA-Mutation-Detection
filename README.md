@@ -76,12 +76,10 @@ Fully Connected Dense Layer
 This architecture enables efficient learning of genomic sequence patterns.
 
 ### Project Structure
-
-
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7e3689dc-a776-4301-bfbf-572723b7730c" />
 
 ### Demo Screenshot 
-
-
+<img width="800" height="609" alt="image" src="https://github.com/user-attachments/assets/7a91e469-7dee-4e78-b812-ce30c0c92105" />
 
 ### Example Input
 ATGCTAGCTAGCTAACGATGCTAG
@@ -131,6 +129,7 @@ A copy of the repository will be created under your GitHub account
 
 #### Cloning a Fork
 git clone https://github.com/ishika-guptaa25/DNA-Mutation-Detection.git
+
 cd DNA-Mutation-Detection
 
 #### Making Contributions
